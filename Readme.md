@@ -4,5 +4,6 @@ This is just a demo on Git
 
 ## Git Branch demo
 *   Create a branch as soon as you clone a repo
-*   change to the cranch
-*   Do not mess with the main branch as main branch contains latest version of the code
+*   Change to the branch you just created
+*   Once you are done with you change you create a Pull Request 
+*   Remove the branch once your change is merged with the main branch
