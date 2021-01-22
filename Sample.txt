@@ -1,0 +1,4 @@
+this is a file in Main branch,
+need to check the diff 
+
+this has been updated from branch sakthi, lets see how git diff works for multiple files 
